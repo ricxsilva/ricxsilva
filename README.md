@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**ricxsilva/ricxsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ricardo Manoel da Silva Junior
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos
+- 
+- ### Você entra em contato comigo em 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- junior.ricardo14@escola.pr.gov.br
+
+![]()https://media.tenor.com/JWJRjZFUa_cAAAAM/one-piece-anime.gif
