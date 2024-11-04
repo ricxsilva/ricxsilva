@@ -10,5 +10,5 @@ Meu nome é Ricardo Manoel da Silva Junior
 
 - junior.ricardo14@escola.pr.gov.br
 
-![](https://media.tenor.com/JWJRjZFUa_cAAAAM/one-piece-anime.gif
+![https://media.tenor.com/xCkCA1qN2AMAAAAM/kiss-trophy-neymar-jr.gif]
 )
